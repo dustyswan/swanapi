@@ -1,0 +1,6 @@
+@swanapi_HostAddress = http://localhost:5229
+
+GET {{swanapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
